@@ -1,3 +1,3 @@
 # cbd
-Powerful global shopping mall with PI
+Global shopping mall distribution.
 
